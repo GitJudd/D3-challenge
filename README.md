@@ -1,12 +1,12 @@
-# Overview and Notes
+### Overview and Notes
 
 In the following readme there are animated gifs that show the basic final design. I originally designed the layout with the d3-tip.js plugin developed by Justin Palmer as shown. While testing the design on a mobile view, it felt cramped so I extended the viewing by reducing the x and y label stacks to more of an inline view type. 
 
-# Data Journalism and D3
+### Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
-## Background
+### Background
 
 Welcome to the newsroom! You've just accepted a data visualization position for a major metro paper. You're tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
 
@@ -56,8 +56,6 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 Your final product will be assessed on the following metrics:
 
-* Creation of a **new** repository on GitHub called `D3-Challenge` (note the kebab-case). Do not add to an already existing repo.
-
 * Completion of all steps in the core assignment
 
 * Coherency of scatter plot (labels, ticks)
@@ -65,10 +63,6 @@ Your final product will be assessed on the following metrics:
 * Visual attraction
 
 * Professionalism
-
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
-**Good luck!**
 
 ### Copyright
 
