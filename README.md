@@ -1,10 +1,10 @@
-### Overview and Notes
+# D3 Interactive Scatterplot
+
+## Overview and Notes
 
 In the following readme there are animated gifs that show the basic expectations of the final design. The screenshot of the final product is not animated but can be [found here](https://gitjudd.github.io/D3-challenge/) I originally designed the layout with the d3-tip.js plugin developed by Justin Palmer as shown. While testing the design on a mobile view, it felt cramped so I extended the viewing by reducing the x and y label stacks to more of an inline view type.
 
-### Data Journalism and D3
-
-### Background
+## Background
 
 Analyze the current trends shaping people's lives in reguard to health risks facing particular demographics. Create charts, graphs, and interactive elements to help readers understand the findings.
 
@@ -12,7 +12,7 @@ The data set used is based on 2014 ACS 1-year estimates: [https://factfinder.cen
 Update - American FactFinder has been decommissioned and is no longer available. Data now available at: [https://data.census.gov/cedsci/table?q=2014%20ACS&tid=ACSDP1Y2014.DP05&hidePreview=false](https://data.census.gov/cedsci/table?q=2014%20ACS&tid=ACSDP1Y2014.DP05&hidePreview=false)
 
 
-### Requirements
+## Requirements
 
 ![4-scatter](Images/4-scatter.jpg)
 
