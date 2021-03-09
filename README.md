@@ -2,7 +2,7 @@
 
 ## Overview and Notes
 
-In the following readme there are animated gifs that show the basic expectations of the final design. The screenshot of the final product is not animated but can be [found here](https://gitjudd.github.io/D3-challenge/) I originally designed the layout with the d3-tip.js plugin developed by Justin Palmer as shown. While testing the design on a mobile view, it felt cramped so I extended the viewing by reducing the x and y label stacks to more of an inline view type.
+In the following readme there are animated gifs that show the basic expectations of the final design. The screenshot of the final product is not animated but can be [found here](https://gitjudd.github.io/InteractiveD3scatter/) I originally designed the layout with the d3-tip.js plugin developed by Justin Palmer as shown. While testing the design on a mobile view, it felt cramped so I extended the viewing by reducing the x and y label stacks to more of an inline view type.
 
 ## Background
 
