@@ -6,7 +6,7 @@ In the following readme there are animated gifs that show the basic expectations
 
 ## Background
 
-Analyze the current trends shaping people's lives in reguard to health risks facing particular demographics. Create charts, graphs, and interactive elements to help readers understand the findings.
+Analyze the current trends shaping people's lives in regard to health risks facing particular demographics. Create charts, graphs, and interactive elements to help readers understand the findings.
 
 The data set used is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml), The data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
